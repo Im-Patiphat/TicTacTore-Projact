@@ -5,7 +5,7 @@ if (gameState === GameState.inProgress) {
     return;
 }
   return (
-    <button onClick={onReset} className="reset-button">Reset</button>
+    <button onClick={onReset} className="reset-button">เริ่มใหม่</button>
   )
 }
 
