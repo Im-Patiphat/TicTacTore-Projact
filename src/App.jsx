@@ -6,7 +6,7 @@ function App() {
   return (
     <>
      <TicTacToe/>
-     <p className='name'>Projact Tic Tac Toe By Patiphat Rattanosot 017</p>
+     <p className='name'>Projact Tic Tac Toe By Patiphat</p>
     </>
   )
 }
